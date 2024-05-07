@@ -1,5 +1,4 @@
 # Task manager
-Task Manager README
 
 Welcome to the Task Manager project! This Django-based application is designed to help users manage their tasks effectively. Whether you're organizing your personal to-do list.
 
